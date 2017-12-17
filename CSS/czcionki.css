@@ -1,0 +1,10 @@
+#tytul_tresci{
+	font-size: 46px;
+	text-align: left;
+}
+
+#box{
+	height: 300px;
+	width: 150px;
+	border-right: 3px solid blue;
+}
