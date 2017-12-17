@@ -7,3 +7,8 @@ Website school project
 2. Podstrony powiązane ze stroną
    główną
 3. Podświetlenia przycisków
+
+Update 1:
+
+4. Slider na stronie głównej
+5. Wypełnienie podstrony about.html (w toku)
